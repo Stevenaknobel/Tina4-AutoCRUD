@@ -1,0 +1,445 @@
+2025-03-24 14:22:14: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:22:14: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:22:14: SubFolder: 
+2025-03-24 14:22:14: Creating CSS file: default.css
+2025-03-24 14:22:14: 67C52610-9F41-495E-9F8E-33E073EF3654 GET - /
+2025-03-24 14:22:14: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Looking in routes for GET - /
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /migrate/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /migrations/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /migration/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /cache/clear/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> POST
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /migrate/create/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /migrations/create/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /migration/create/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> POST
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> POST
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> POST
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /xdebuginfo/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Method match GET -> GET
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Matching // -> /swagger/json.json/
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 URL Last Resort GET - /index
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 TINA4 Filename: /index
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Looking for file index
+2025-03-24 14:22:15: 67C52610-9F41-495E-9F8E-33E073EF3654 Returning File not found index
+2025-03-24 14:23:48: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:23:48: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:23:48: SubFolder: 
+2025-03-24 14:23:48: Class "Tina4\DataSQLite3" not found
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/index.php:5]
+2025-03-24 14:24:42: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:24:42: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:24:42: SubFolder: 
+2025-03-24 14:24:42: Class "Tina4\DataSQLite3" not found
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/index.php:5]
+2025-03-24 14:25:30: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:25:30: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:25:30: SubFolder: 
+2025-03-24 14:25:31: Creating CSS file: default.css
+2025-03-24 14:25:31: CD2E03B9-B934-40AB-A879-A8226CA19BBF GET - /
+2025-03-24 14:25:31: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Looking in routes for GET - /
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /migrate/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /migrations/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /migration/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /cache/clear/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> POST
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /migrate/create/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /migrations/create/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /migration/create/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> POST
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> POST
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> POST
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /xdebuginfo/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Method match GET -> GET
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Matching // -> /swagger/json.json/
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF URL Last Resort GET - /index
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF TINA4 Filename: /index
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Looking for file index
+2025-03-24 14:25:32: CD2E03B9-B934-40AB-A879-A8226CA19BBF Returning File not found index
+2025-03-24 14:25:36: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:25:36: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:25:36: SubFolder: 
+2025-03-24 14:25:36: Creating CSS file: default.css
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 GET - /migrate/create
+2025-03-24 14:25:36: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Looking in routes for GET - /migrate/create
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Method match GET -> GET
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Matching /migrate/create/ -> /migrate/
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Method match GET -> GET
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Matching /migrate/create/ -> /migrations/
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Method match GET -> GET
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Matching /migrate/create/ -> /migration/
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Method match GET -> GET
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Matching /migrate/create/ -> /cache/clear/
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Method match GET -> POST
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Method match GET -> GET
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Matching /migrate/create/ -> /migrate/create/
+2025-03-24 14:25:36: E3B232A3-DE95-41AE-875A-81C312CC13D0 Matching /migrate/create/ with /migrate/create/
+2025-03-24 14:25:36: 
+2025-03-24 14:27:10: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:27:10: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:27:10: SubFolder: 
+2025-03-24 14:27:10: Creating CSS file: default.css
+2025-03-24 14:27:10: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 GET - /migrate/create
+2025-03-24 14:27:10: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Looking in routes for GET - /migrate/create
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Method match GET -> GET
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Matching /migrate/create/ -> /migrate/
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Method match GET -> GET
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Matching /migrate/create/ -> /migrations/
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Method match GET -> GET
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Matching /migrate/create/ -> /migration/
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Method match GET -> GET
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Matching /migrate/create/ -> /cache/clear/
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Method match GET -> POST
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Method match GET -> GET
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Matching /migrate/create/ -> /migrate/create/
+2025-03-24 14:27:11: 6A08BFDD-A0DA-4472-9B67-FFD3C30E5A91 Matching /migrate/create/ with /migrate/create/
+2025-03-24 14:27:11: 
+2025-03-24 14:27:46: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:27:46: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:27:46: SubFolder: 
+2025-03-24 14:27:46: Creating CSS file: default.css
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE POST - /migrate/create
+2025-03-24 14:27:46: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:27:46: Validating token
+2025-03-24 14:27:46: Getting token payload
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Looking in routes for POST - /migrate/create
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> POST
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Matching /migrate/create/ -> /git/deploy/
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> GET
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Method match POST -> POST
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Matching /migrate/create/ -> /migrate/create/
+2025-03-24 14:27:46: 8B7E09D4-766A-4D77-9C38-C063983A23EE Matching /migrate/create/ with /migrate/create/
+2025-03-24 14:27:46: description=Create+Car+Table&sql=CREATE+TABLE+car+%28%0D%0A++++id+INTEGER+NOT+NULL+PRIMARY+KEY%2C%0D%0A++++brand_name+VARCHAR%28100%29+DEFAULT+%27%27%2C%0D%0A++++year+INTEGER%0D%0A%29%3B%0D%0A&formToken=eyJhbGciOiJSUzI1NiJ9.eyJleHBpcmVzIjoxNzQyODI3MDMxLCJwYXlsb2FkIjoiXC9taWdyYXRlXC9jcmVhdGUiLCJyZXF1ZXN0VVJJIjoiXC9taWdyYXRlXC9jcmVhdGUifQ.rUSBDO_75qNvL6FPEZKoNEPn0E-Od0BM7m0ceTCv3_04Perxd4-i_QgcejFiELlAIfmAG2-Eus3VAaF-Ij0UcA04RkIPHwS5ARlqWRDMjgmi78vNLg_x9RFZaf5PjNkkGrH18e-JzAwjfY_A9UZNdZuG6YfTxSeGfisAM8vyQKU5PrS7CuJcRiSFZcaiR8ik87ou23bszIyrKhX-AjXyxQUXn4UDPT6PO69LlP8-QUE95h2Rb_bk4ffWpdTeF9yKjeHfcCjcLOJLcWfZJWzqzFqrKKcok7oUH6mHJuQAejIMerFM3UUsaOlcxYCyku0pSeDG0zRSz5rL_6fXI6ABlg
+2025-03-24 14:27:46: Validating token
+2025-03-24 14:27:46: Getting token payload
+2025-03-24 14:27:46: Migration path: ./migrations
+2025-03-24 14:28:01: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:28:01: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:28:01: SubFolder: 
+2025-03-24 14:28:01: Creating CSS file: default.css
+2025-03-24 14:28:01: F26F5AE3-FEAB-489C-B868-70908BF5A545 GET - /migrate
+2025-03-24 14:28:01: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:28:01: F26F5AE3-FEAB-489C-B868-70908BF5A545 Looking in routes for GET - /migrate
+2025-03-24 14:28:01: F26F5AE3-FEAB-489C-B868-70908BF5A545 Method match GET -> GET
+2025-03-24 14:28:01: F26F5AE3-FEAB-489C-B868-70908BF5A545 Matching /migrate/ -> /migrate/
+2025-03-24 14:28:01: F26F5AE3-FEAB-489C-B868-70908BF5A545 Matching /migrate/ with /migrate/
+2025-03-24 14:28:01: 
+2025-03-24 14:28:01: Migration path: ./migrations
+2025-03-24 14:29:42: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:29:42: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:29:42: SubFolder: 
+2025-03-24 14:29:43: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:29:43: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:29:44: Creating CSS file: default.css
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 GET - /cars/landing
+2025-03-24 14:29:44: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Looking in routes for GET - /cars/landing
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /migrate/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /migrations/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /migration/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /cache/clear/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> POST
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /migrate/create/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /migrations/create/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /migration/create/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> POST
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> POST
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> POST
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /xdebuginfo/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Method match GET -> GET
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Matching /cars/landing/ -> /swagger/json.json/
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 URL Last Resort GET - /cars/landing
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 TINA4 Filename: /cars/landing
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Looking for file cars/landing
+2025-03-24 14:29:44: 9114300A-BD2F-407C-88CA-B708814D5363 Returning File not found cars/landing
+2025-03-24 14:31:20: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:31:21: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:31:21: SubFolder: 
+2025-03-24 14:31:22: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:31:22: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:31:22: Creating CSS file: default.css
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 GET - /
+2025-03-24 14:31:23: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Looking in routes for GET - /
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /migrate/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /migrations/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /migration/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /cache/clear/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> POST
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /migrate/create/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /migrations/create/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /migration/create/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> POST
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> POST
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> POST
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /xdebuginfo/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Method match GET -> GET
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Matching // -> /swagger/json.json/
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 URL Last Resort GET - /index
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 TINA4 Filename: /index
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Looking for file index
+2025-03-24 14:31:23: F23CC552-9DA9-467D-8C03-DD2698981785 Returning File not found index
+2025-03-24 14:31:29: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:31:29: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:31:29: SubFolder: 
+2025-03-24 14:31:30: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:31:30: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:31:30: Creating CSS file: default.css
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 GET - /cars/landing
+2025-03-24 14:31:30: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Looking in routes for GET - /cars/landing
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /migrate/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /migrations/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /migration/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /cache/clear/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> POST
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /migrate/create/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /migrations/create/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /migration/create/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> POST
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> POST
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> POST
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /xdebuginfo/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Method match GET -> GET
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Matching /cars/landing/ -> /swagger/json.json/
+2025-03-24 14:31:30: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 URL Last Resort GET - /cars/landing
+2025-03-24 14:31:31: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 TINA4 Filename: /cars/landing
+2025-03-24 14:31:31: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Looking for file cars/landing
+2025-03-24 14:31:31: 97C2D5F5-23E2-41A4-91DD-43CE8DFEF689 Returning File not found cars/landing
+2025-03-24 14:31:53: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:31:53: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:31:53: SubFolder: 
+2025-03-24 14:31:54: Creating CSS file: default.css
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D GET - /
+2025-03-24 14:31:54: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Looking in routes for GET - /
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /migrate/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /migrations/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /migration/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /cache/clear/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> POST
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /migrate/create/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /migrations/create/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /migration/create/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> POST
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> POST
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> POST
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /xdebuginfo/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Method match GET -> GET
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Matching // -> /swagger/json.json/
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D URL Last Resort GET - /index
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D TINA4 Filename: /index
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Looking for file index
+2025-03-24 14:31:54: D981F0E2-7E49-4CAC-82AF-7B63AB5F681D Returning File not found index
+2025-03-24 14:38:07: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:38:07: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:38:07: SubFolder: 
+2025-03-24 14:38:09: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:38:09: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:38:09: Creating CSS file: default.css
+2025-03-24 14:38:09: A99DE31E-C4FB-41D6-808B-557B5C0EE25E GET - /
+2025-03-24 14:38:09: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Looking in routes for GET - /
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /migrate/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /migrations/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /migration/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /cache/clear/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> POST
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /migrate/create/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /migrations/create/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /migration/create/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> POST
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> POST
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> POST
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /xdebuginfo/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Method match GET -> GET
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Matching // -> /swagger/json.json/
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E URL Last Resort GET - /index
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E TINA4 Filename: /index
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Looking for file index
+2025-03-24 14:38:10: A99DE31E-C4FB-41D6-808B-557B5C0EE25E Returning File not found index
+2025-03-24 14:38:18: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:38:18: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:38:18: SubFolder: 
+2025-03-24 14:38:19: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:38:19: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:38:19: Creating CSS file: default.css
+2025-03-24 14:38:19: 530788CF-57B6-4B45-8E08-D8C11514C88F GET - /cars/landing
+2025-03-24 14:38:19: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:38:19: 530788CF-57B6-4B45-8E08-D8C11514C88F Looking in routes for GET - /cars/landing
+2025-03-24 14:38:19: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /migrate/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /migrations/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /migration/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /cache/clear/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> POST
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /migrate/create/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /migrations/create/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /migration/create/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> POST
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> POST
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> POST
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /xdebuginfo/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Method match GET -> GET
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Matching /cars/landing/ -> /swagger/json.json/
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F URL Last Resort GET - /cars/landing
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F TINA4 Filename: /cars/landing
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Looking for file cars/landing
+2025-03-24 14:38:20: 530788CF-57B6-4B45-8E08-D8C11514C88F Returning File not found cars/landing
+2025-03-24 14:38:27: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:38:28: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:38:28: SubFolder: 
+2025-03-24 14:38:28: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:38:28: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:38:29: Creating CSS file: default.css
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 GET - /cars/
+2025-03-24 14:38:29: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Looking in routes for GET - /cars/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /migrate/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /migrations/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /migration/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /cache/clear/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> POST
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /migrate/create/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /migrations/create/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /migration/create/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> POST
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> POST
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> POST
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /xdebuginfo/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Method match GET -> GET
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Matching /cars// -> /swagger/json.json/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 URL Last Resort GET - /cars/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 TINA4 Filename: /cars/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Looking for file cars/
+2025-03-24 14:38:29: CA3C49A7-4010-4A57-9EC7-B45F719BC4B9 Returning File not found cars/
+2025-03-24 14:40:23: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-24 14:40:23: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-24 14:40:23: SubFolder: 
+2025-03-24 14:40:25: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:40:25: Since twig/twig 3.12: Character """ should not be escaped; the "\" character is ignored in Twig 3 but will not be in Twig 4. Please remove the extra "\" character at position 2 in "@__main__/components/form.twig" at line 12.
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/symfony/deprecation-contracts/function.php:25]
+2025-03-24 14:40:25: Creating CSS file: default.css
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A GET - /
+2025-03-24 14:40:25: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Looking in routes for GET - /
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /migrate/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /migrations/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /migration/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /cache/clear/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> POST
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /migrate/create/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /migrations/create/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /migration/create/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> POST
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> POST
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> POST
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /xdebuginfo/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Method match GET -> GET
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Matching // -> /swagger/json.json/
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A URL Last Resort GET - /index
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A TINA4 Filename: /index
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Looking for file index
+2025-03-24 14:40:25: C030E2CF-91AA-4261-9B88-F5BA1E6FFF1A Returning File not found index

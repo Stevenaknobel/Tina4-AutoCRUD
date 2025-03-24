@@ -1,0 +1,5 @@
+CREATE TABLE car (
+    id INTEGER NOT NULL PRIMARY KEY,
+    brand_name VARCHAR(100) DEFAULT '',
+    year INTEGER
+);
