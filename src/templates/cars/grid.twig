@@ -25,12 +25,12 @@
             integrity="sha256-NdDw7k+fJewgwI1XmH9NMR6OILvTX+3arqb/OgFicoM=" crossorigin="anonymous"></script>
     <script src="/js/tina4helper.js"></script>
     <link rel="stylesheet" href="/css/default.css">
-    <title>App\ORM\Car</title>
+    <title>Car</title>
 </head>
 
 <body>
-    <h3>App\ORM\Car</h3>
-    <table id="app\ORM\CarGrid" class="table table-striped table-bordered table-condensed" style="width:100%">
+    <h3>Car</h3>
+    <table id="carGrid" class="table table-striped table-bordered table-condensed" style="width:100%">
         <thead>
         <tr>
                             <th>Id</th>
@@ -41,9 +41,9 @@
         </thead>
     </table>
     <script>
-        var app\ORM\CarGrid = null;
+        var carGrid = null;
         $(document).ready(function () {
-            app\ORM\CarGrid = $('#app\ORM\CarGrid').DataTable({
+            carGrid = $('#carGrid').DataTable({
                 dom: '<"row"<"col-md-6"B><"col-md-4"f><"col-md-2"l>><rtip>',
                 ajax: {
                         url: '/cars',
