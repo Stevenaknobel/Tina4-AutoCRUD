@@ -1930,3 +1930,538 @@ order by t.id asc
 2025-03-25 06:59:53: BF1812AD-0971-4448-B8B7-D86BCEBF2E7F Matching /migrate/ with /migrate/
 2025-03-25 06:59:53: 
 2025-03-25 06:59:53: Migration path: ./migrations
+2025-03-28 09:43:26: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 09:43:26: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 09:43:26: SubFolder: 
+2025-03-28 09:43:26: Creating CSS file: default.css
+2025-03-28 09:43:26: 0928B47B-997A-4917-97C2-489A0A8EBFA5 GET - /shopifycloths
+2025-03-28 09:43:26: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Looking in routes for GET - /shopifycloths
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> POST
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /cars/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> POST
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> DELETE
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> POST
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /owners/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> POST
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> DELETE
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Method match GET -> GET
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 09:43:27: 0928B47B-997A-4917-97C2-489A0A8EBFA5 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 09:43:27: 
+2025-03-28 09:43:29: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:163]
+2025-03-28 09:43:29: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:163]
+2025-03-28 09:43:29: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:163]
+2025-03-28 09:43:29: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:163]
+2025-03-28 09:43:29: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:163]
+2025-03-28 09:43:29: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:163]
+2025-03-28 09:43:30: http_response_code(): Cannot set response code - headers already sent (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:36)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:367]
+2025-03-28 09:43:31: Cannot modify header information - headers already sent by (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:36)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:379]
+2025-03-28 09:44:51: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 09:44:51: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 09:44:51: SubFolder: 
+2025-03-28 09:44:51: Creating CSS file: default.css
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 GET - /shopifycloths
+2025-03-28 09:44:51: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Looking in routes for GET - /shopifycloths
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> POST
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /cars/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> POST
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> DELETE
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> POST
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /owners/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> POST
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> DELETE
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Method match GET -> GET
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 09:44:51: 4C6DA4AA-8999-45EF-B8E9-42C4B8ABADA7 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 09:44:51: 
+2025-03-28 09:44:57: http_response_code(): Cannot set response code - headers already sent (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:36)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:367]
+2025-03-28 09:44:58: Cannot modify header information - headers already sent by (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:36)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:379]
+2025-03-28 09:51:43: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 09:51:43: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 09:51:43: SubFolder: 
+2025-03-28 09:51:43: Creating CSS file: default.css
+2025-03-28 09:51:43: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 GET - /shopifycloths
+2025-03-28 09:51:43: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Looking in routes for GET - /shopifycloths
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> POST
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /cars/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> POST
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> DELETE
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> POST
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /owners/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> POST
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> DELETE
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Method match GET -> GET
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 09:51:44: 17C534C5-7E9D-43C1-8E0B-448507E8FF07 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 09:51:44: 
+2025-03-28 09:51:48: http_response_code(): Cannot set response code - headers already sent (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:36)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:367]
+2025-03-28 09:51:48: Cannot modify header information - headers already sent by (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:36)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:379]
+2025-03-28 10:43:27: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:43:27: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:43:27: SubFolder: 
+2025-03-28 10:43:27: Creating CSS file: default.css
+2025-03-28 10:43:27: 58C60458-B7B3-4B1E-AE35-3245DA80C31A GET - /
+2025-03-28 10:43:27: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Looking in routes for GET - /
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /cars/landing/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /cars/form/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /cars/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /cars/{id}/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> DELETE
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /owners/landing/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /owners/form/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /owners/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /owners/{id}/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> DELETE
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /shopifycloths/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /migrate/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /migrations/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /migration/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /cache/clear/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /migrate/create/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /migrations/create/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /migration/create/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> POST
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /xdebuginfo/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Method match GET -> GET
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Matching // -> /swagger/json.json/
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A URL Last Resort GET - /index
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A TINA4 Filename: /index
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Looking for file index
+2025-03-28 10:43:28: 58C60458-B7B3-4B1E-AE35-3245DA80C31A Returning File not found index
+2025-03-28 10:43:41: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:43:41: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:43:41: SubFolder: 
+2025-03-28 10:43:41: Creating CSS file: default.css
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE GET - /shopifycloths
+2025-03-28 10:43:41: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Looking in routes for GET - /shopifycloths
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> POST
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /cars/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> POST
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> DELETE
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> POST
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /owners/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> POST
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> DELETE
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Method match GET -> GET
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:43:41: 556836D1-0790-466C-9C28-421789B469BE Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:43:41: 
+2025-03-28 10:43:43: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:43:43: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:43:43: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:43:43: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:43:43: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:43:43: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:43:44: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:43:44: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:00: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:45:00: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:45:00: SubFolder: 
+2025-03-28 10:45:01: Creating CSS file: default.css
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 GET - /shopifycloths
+2025-03-28 10:45:01: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Looking in routes for GET - /shopifycloths
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> POST
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /cars/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> POST
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> DELETE
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> POST
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /owners/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> POST
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> DELETE
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Method match GET -> GET
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:45:01: 6548BE08-7ADF-42ED-A6C5-B1D2817BB9C1 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:45:01: 
+2025-03-28 10:45:03: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:03: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:03: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:11: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:45:11: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:45:11: SubFolder: 
+2025-03-28 10:45:12: Creating CSS file: default.css
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 GET - /shopifycloths
+2025-03-28 10:45:12: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Looking in routes for GET - /shopifycloths
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> POST
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /cars/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> POST
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> DELETE
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> POST
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /owners/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> POST
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> DELETE
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Method match GET -> GET
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:45:12: 8B1B4B11-5D90-47A7-BF50-FEBE8C8A26C9 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:45:12: 
+2025-03-28 10:45:13: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:106]
+2025-03-28 10:45:14: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:45:14: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:162]
+2025-03-28 10:46:06: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:46:06: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:46:06: SubFolder: 
+2025-03-28 10:46:06: Creating CSS file: default.css
+2025-03-28 10:46:06: F83CC291-5398-4664-833D-DC5AE2C4AB44 GET - /shopifycloths
+2025-03-28 10:46:06: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Looking in routes for GET - /shopifycloths
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> POST
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /cars/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> POST
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> DELETE
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> POST
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /owners/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> POST
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> DELETE
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Method match GET -> GET
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:46:07: F83CC291-5398-4664-833D-DC5AE2C4AB44 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:46:07: 
+2025-03-28 10:46:08: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:110]
+2025-03-28 10:46:08: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:110]
+2025-03-28 10:46:08: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:110]
+2025-03-28 10:46:08: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:110]
+2025-03-28 10:46:08: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:110]
+2025-03-28 10:46:08: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:110]
+2025-03-28 10:46:09: Undefined array key "data"
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:46:09: Trying to access array offset on null
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:166]
+2025-03-28 10:50:25: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:50:26: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:50:26: SubFolder: 
+2025-03-28 10:50:26: Creating CSS file: default.css
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 GET - /shopifycloths
+2025-03-28 10:50:26: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Looking in routes for GET - /shopifycloths
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> POST
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /cars/
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> POST
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> DELETE
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:50:26: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> POST
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /owners/
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> POST
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> DELETE
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Method match GET -> GET
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:50:27: 8ED541B9-78DF-4A4F-9DD6-95CB75FC22B1 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:50:27: 
+2025-03-28 10:50:29: http_response_code(): Cannot set response code - headers already sent (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:40)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:367]
+2025-03-28 10:50:30: Cannot modify header information - headers already sent by (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:40)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:379]
+2025-03-28 10:51:22: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:51:22: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:51:22: SubFolder: 
+2025-03-28 10:51:22: Creating CSS file: default.css
+2025-03-28 10:51:22: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 GET - /shopifycloths
+2025-03-28 10:51:22: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Looking in routes for GET - /shopifycloths
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> POST
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /cars/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> POST
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> DELETE
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> POST
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /owners/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> POST
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> DELETE
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Method match GET -> GET
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:51:23: 87BB28CA-CF26-4582-BEA9-BEAB338D0F58 Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:51:23: 
+2025-03-28 10:51:27: http_response_code(): Cannot set response code - headers already sent (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:40)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:367]
+2025-03-28 10:51:28: Cannot modify header information - headers already sent by (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:40)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:379]
+2025-03-28 10:52:09: Project Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/
+2025-03-28 10:52:09: Document Root: /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/
+2025-03-28 10:52:09: SubFolder: 
+2025-03-28 10:52:10: Creating CSS file: default.css
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D GET - /shopifycloths
+2025-03-28 10:52:10: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Looking in routes for GET - /shopifycloths
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /cars/landing/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /cars/form/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> POST
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /cars/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /cars/{id}/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> POST
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> DELETE
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /owners/landing/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /owners/form/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> POST
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /owners/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /owners/{id}/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> POST
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> DELETE
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Method match GET -> GET
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ -> /shopifycloths/
+2025-03-28 10:52:10: 97382268-7D6A-45F2-BEC9-C0CC23129A3D Matching /shopifycloths/ with /shopifycloths/
+2025-03-28 10:52:10: 
+2025-03-28 10:52:13: http_response_code(): Cannot set response code - headers already sent (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:40)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:367]
+2025-03-28 10:52:13: Cannot modify header information - headers already sent by (output started at /mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/src/routes/shopifycloths.php:40)
+[/mnt/c/Users/Steven/Desktop/Tina4-autoCRUD/vendor/tina4stack/tina4php/Tina4/Tina4Php.php:379]
